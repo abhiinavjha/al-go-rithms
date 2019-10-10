@@ -15,7 +15,7 @@ int main()
     for(i=0;i<row;i++)
     {
         for(j=0;j<col;j++)
-            cout<<arr[i][j]<<"  ";
+             cout<<arr[i][j]<<"  ";
         cout<<endl;
     }
     getch();
